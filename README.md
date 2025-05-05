@@ -13,6 +13,7 @@ All presentations were recorded and are (or will be!) available on the [Stir Tre
 - [Bridging the Gap: Taking Your Design System from Figma to Code (Ryan Albertsun)](https://buttons.design/slides/Figma%20to%20Code%202025%20Stir%20Trek.pdf)
 - [Can We Learn to Manage Uncertainty? Probably! (Robert Herbig)](https://www.dropbox.com/scl/fi/90vfx6cu5sdy4r91t1mr6/Can-We-Learn-to-Manage-Uncertainty_-Probably-StirTrek-2025.pdf?rlkey=v35p9ycttl1ep1c53pw52qe8w&e=1&st=wibxpidx&dl=0)
 - [Creating Intuitive APIs with the Builder Design Pattern (Kelly Morrison)](https://github.com/kellyivymorrison/Presentations/blob/main/StirTrek2025/2025_Stir_Trek_Builder_Presentation.pdf)
+- [Design Patterns: Not Just For Architects (Jeremy Clark)](https://github.com/jeremybytes/learning-design-patterns)
 - [Everything About Containers (Daniel Mikusa)](https://github.com/dmikusa/everything-about-containers)
 - [Finding Your Meme Twins with Vector Search (Guy Royse)](talks//finding-your-meme-twin-with-embeddings-and-vector-search/)
 - [Florida Man Uses Cache as Database (Guy Royse)](talks/florida-man-uses-cache-as-database)
