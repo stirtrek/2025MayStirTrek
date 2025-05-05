@@ -10,7 +10,7 @@ All presentations were recorded and are (or will be!) available on the [Stir Tre
 
 <!-- - [Session Title (SpeakerName)](/talks/foldername/README.md) -->
 - [Angular Renaissance (Lance Finney)](https://tinyurl.com/stirTrekNgRen)
-- [Bridging the Gap: Taking Your Design System from Figma to Code (Ryan Albertsun)](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://buttons.design/slides/Figma%20to%20Code%202025%20Stir%20Trek.pdf)
+- [Bridging the Gap: Taking Your Design System from Figma to Code (Ryan Albertsun)](https://buttons.design/slides/Figma%20to%20Code%202025%20Stir%20Trek.pdf)
 - [Can We Learn to Manage Uncertainty? Probably! (Robert Herbig)](https://www.dropbox.com/scl/fi/90vfx6cu5sdy4r91t1mr6/Can-We-Learn-to-Manage-Uncertainty_-Probably-StirTrek-2025.pdf?rlkey=v35p9ycttl1ep1c53pw52qe8w&e=1&st=wibxpidx&dl=0)
 - [Creating Intuitive APIs with the Builder Design Pattern (Kelly Morrison)](https://github.com/kellyivymorrison/Presentations/blob/main/StirTrek2025/2025_Stir_Trek_Builder_Presentation.pdf)
 - [Everything About Containers (Daniel Mikusa)](https://github.com/dmikusa/everything-about-containers)
