@@ -10,6 +10,7 @@ All presentations were recorded and are (or will be!) available on the [Stir Tre
 
 <!-- - [Session Title (SpeakerName)](/talks/foldername/README.md) -->
 - [Hot New HTML Features (Alex Riviere)](https://slides.com/fimion/stirtrek-2025)
+- [Can We Learn to Manage Uncertainty? Probably! (Robert Herbig)](https://www.dropbox.com/scl/fi/90vfx6cu5sdy4r91t1mr6/Can-We-Learn-to-Manage-Uncertainty_-Probably-StirTrek-2025.pdf?rlkey=v35p9ycttl1ep1c53pw52qe8w&e=1&st=wibxpidx&dl=0) (or in this repo)
 
 ## Stir Trek 2024 Reviews
 
