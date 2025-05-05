@@ -9,7 +9,7 @@ All presentations were recorded and are (or will be!) available on the [Stir Tre
 *Add your sessions here, in alphabetical order by session title*
 
 <!-- - [Session Title (SpeakerName)](/talks/foldername/README.md) -->
-- 
+- [Hot New HTML Features (Alex Riviere)](https://slides.com/fimion/stirtrek-2025)
 
 ## Stir Trek 2024 Reviews
 
