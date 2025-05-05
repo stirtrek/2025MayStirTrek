@@ -11,6 +11,7 @@ All presentations were recorded and are (or will be!) available on the [Stir Tre
 <!-- - [Session Title (SpeakerName)](/talks/foldername/README.md) -->
 - [Angular Renaissance (Lance Finney)](https://tinyurl.com/stirTrekNgRen)
 - [Can We Learn to Manage Uncertainty? Probably! (Robert Herbig)](https://www.dropbox.com/scl/fi/90vfx6cu5sdy4r91t1mr6/Can-We-Learn-to-Manage-Uncertainty_-Probably-StirTrek-2025.pdf?rlkey=v35p9ycttl1ep1c53pw52qe8w&e=1&st=wibxpidx&dl=0)
+- [Creating Intuitive APIs with the Builder Design Pattern (Kelly Morrison)](https://github.com/kellyivymorrison/Presentations/blob/main/StirTrek2025/2025_Stir_Trek_Builder_Presentation.pdf)
 - [Everything About Containers (Daniel Mikusa)](https://github.com/dmikusa/everything-about-containers)
 - [Finding Your Meme Twins with Vector Search (Guy Royse)](talks//finding-your-meme-twin-with-embeddings-and-vector-search/)
 - [Florida Man Uses Cache as Database (Guy Royse)](talks/florida-man-uses-cache-as-database)
