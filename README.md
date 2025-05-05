@@ -15,6 +15,12 @@ All presentations were recorded and are (or will be!) available on the [Stir Tre
 
 <!-- Link to Bluesky or LinkedIn or Blog Posts about Stir Trek by speakers and attendees -->
 
+## Photos
+
+A number of folks shared photos of the event, and we also had a photo booth for attendees.
+
+- [2025 Stir Trek Photo Booth](https://fotoshare.co/e/sa-X1x2MYC6dOANYba_93)
+
 ## Speaker Instructions
 
 [Quick tutorial on adding files to GitHub repos you don't own](https://ardalis.com/how-to-add-files-to-a-github-repo-you-don%E2%80%99t-own/)
