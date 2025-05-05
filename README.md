@@ -19,6 +19,7 @@ All presentations were recorded and are (or will be!) available on the [Stir Tre
 - [Hot New HTML Features (Alex Riviere)](https://slides.com/fimion/stirtrek-2025)
 - [How to Use Bluesky and LinkedIn to Find a Job (Taylor Desseyn)](talks/how-to-use-bluesky-linkedin-find-job/)
 - [Intro to Temporal: JS Dates That Do Not Suck (Bruce Hubbard)](https://docs.google.com/presentation/d/1CdicRz9TzVzGz30qWyhwaNnTlE7njI08MuVE9fbyTH8/edit?slide=id.p#slide=id.p)
+- [Navigating the Maze: Communicating Architecture Decisions with ADRs (Chad Green)](https://github.com/TaleLearnCode/NavigatingTheMaze)
 
 ## Stir Trek Reviews
 
