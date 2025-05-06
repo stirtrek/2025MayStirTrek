@@ -31,12 +31,14 @@ All presentations were recorded and are (or will be!) available on the [Stir Tre
 - [Intro to Temporal: JS Dates That Do Not Suck (Bruce Hubbard)](https://docs.google.com/presentation/d/1CdicRz9TzVzGz30qWyhwaNnTlE7njI08MuVE9fbyTH8/edit?slide=id.p#slide=id.p)
 - [Navigating the Maze: Communicating Architecture Decisions with ADRs (Chad Green)](https://github.com/TaleLearnCode/NavigatingTheMaze)
 - [Seven Deadly Sins of Management (Jennifer Wadella)](https://www.canva.com/design/DAGlTM0qA_U/CUmlINYfaexn1AJvgmF0DA/view?utm_content=DAGlTM)
+- [Side Quests: How creative tinkering and exploration can transform you, one side project at a time](/talks/side-quests/)
 - [Spaces, Squares, and Circles - an Intro to UI Design (Ash Banaszek)](https://ux-ash.com/p/resources) PW: ```Thanksforcoming!```
 - [Testing Strategies for Monoliths and Microservices (David Lucas)](https://github.com/lseinc/stirtrek25-backend-testing-strategies)
 
 ## Stir Trek Reviews
 
 <!-- Link to Bluesky or LinkedIn or Blog Posts about Stir Trek by speakers and attendees -->
+- [Sadukie's write-up](https://sadukie.com/2025/05/04/stir-trek-2025-recap.html)
 
 ## Photos
 
