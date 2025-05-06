@@ -12,6 +12,7 @@ All presentations were recorded and are (or will be!) available on the [Stir Tre
 - [65.8 Million Americans Can't Access Your Software (Dan Keck / Lindsay Knoll)](https://go.osu.edu/65_8MillionAmericans)
 - [AI for Highway Maintenance (Jordan Thayer)](/talks/ai-for-highway-maintenance/)
 - [Angular Renaissance (Lance Finney)](https://tinyurl.com/stirTrekNgRen)
+- [Asynchronous JavaScript: Livin' On A Prayer (Bob Fornal)](https://github.com/bob-fornal/tears)
 - [Bridging the Gap: Taking Your Design System from Figma to Code (Ryan Albertsun)](https://buttons.design/slides/Figma%20to%20Code%202025%20Stir%20Trek.pdf)
 - [Bringing Augmented Reality to the Web with 8th Wall (Tasha Penwell)](https://linktr.ee/stirtrek2025)
 - [Can We Learn to Manage Uncertainty? Probably! (Robert Herbig)](https://www.dropbox.com/scl/fi/90vfx6cu5sdy4r91t1mr6/Can-We-Learn-to-Manage-Uncertainty_-Probably-StirTrek-2025.pdf?rlkey=v35p9ycttl1ep1c53pw52qe8w&e=1&st=wibxpidx&dl=0)
