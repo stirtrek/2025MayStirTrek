@@ -24,6 +24,7 @@ All presentations were recorded and are (or will be!) available on the [Stir Tre
 - [Intro to OpenTelemetry for Developers (AL Rodriguez)](https://programmeral.com/posts/20250502_StirTrek2025)
 - [Intro to Temporal: JS Dates That Do Not Suck (Bruce Hubbard)](https://docs.google.com/presentation/d/1CdicRz9TzVzGz30qWyhwaNnTlE7njI08MuVE9fbyTH8/edit?slide=id.p#slide=id.p)
 - [Navigating the Maze: Communicating Architecture Decisions with ADRs (Chad Green)](https://github.com/TaleLearnCode/NavigatingTheMaze)
+- [Testing Strategies for Monoliths and Microservices (David Lucas)](talks/backend-testing-strategies)
 
 ## Stir Trek Reviews
 
