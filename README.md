@@ -9,6 +9,7 @@ All presentations were recorded and are (or will be!) available on the [Stir Tre
 *Add your sessions here, in alphabetical order by session title*
 
 <!-- - [Session Title (SpeakerName)](/talks/foldername/README.md) -->
+- [65.8 Million Americans Can't Access Your Software (Lindsay Knoll and Dan Keck)](/talks/65.8-million-americans-cant-access-your-software/README.md)
 - [Angular Renaissance (Lance Finney)](https://tinyurl.com/stirTrekNgRen)
 - [Bridging the Gap: Taking Your Design System from Figma to Code (Ryan Albertsun)](https://buttons.design/slides/Figma%20to%20Code%202025%20Stir%20Trek.pdf)
 - [Bringing Augmented Reality to the Web with 8th Wall (Tasha Penwell)](https://linktr.ee/stirtrek2025)
