@@ -33,7 +33,7 @@ All presentations were recorded and are (or will be!) available on the [Stir Tre
 - [Seven Deadly Sins of Management (Jennifer Wadella)](https://www.canva.com/design/DAGlTM0qA_U/CUmlINYfaexn1AJvgmF0DA/view?utm_content=DAGlTM)
 - [Side Quests: How creative tinkering and exploration can transform you, one side project at a time](/talks/side-quests/)
 - [Spaces, Squares, and Circles - an Intro to UI Design (Ash Banaszek)](https://ux-ash.com/p/resources) PW: ```Thanksforcoming!```
-- [Testing Strategies for Monoliths and Microservices (David Lucas)](https://github.com/lseinc/stirtrek25-backend-testing-strategies)
+- [Testing Strategies for Monoliths and Microservices (David Lucas)](talks/backend-testing-strategies)
 
 ## Stir Trek Reviews
 
