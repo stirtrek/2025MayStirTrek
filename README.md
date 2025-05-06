@@ -38,6 +38,7 @@ All presentations were recorded and are (or will be!) available on the [Stir Tre
 ## Stir Trek Reviews
 
 <!-- Link to Bluesky or LinkedIn or Blog Posts about Stir Trek by speakers and attendees -->
+- [Sadukie's write-up](https://sadukie.com/2025/05/04/stir-trek-2025-recap.html)
 
 ## Photos
 
