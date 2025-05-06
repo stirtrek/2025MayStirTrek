@@ -20,6 +20,7 @@ All presentations were recorded and are (or will be!) available on the [Stir Tre
 - [Finding Your Meme Twins with Vector Search (Guy Royse)](talks//finding-your-meme-twin-with-embeddings-and-vector-search/)
 - [Florida Man Uses Cache as Database (Guy Royse)](talks/florida-man-uses-cache-as-database)
 - [Hot New HTML Features (Alex Riviere)](https://slides.com/fimion/stirtrek-2025)
+- [How to Build Your Own Copilot for .NET Devs (Brian McKeiver)](https://www.mcbeev.com/stirtrek-25)
 - [How to Use Bluesky and LinkedIn to Find a Job (Taylor Desseyn)](talks/how-to-use-bluesky-linkedin-find-job/)
 - [I Didn't Know HTML/CSS Could Do THAT! (Kathryn Grayson Nanz)](https://docs.google.com/presentation/d/1-5_Y-NR6OQDDF2XAe3kadsvCEI_SXzZqfEdQ-k_EcAw/edit)
 - [Intro to OpenTelemetry for Developers (AL Rodriguez)](https://programmeral.com/posts/20250502_StirTrek2025)
