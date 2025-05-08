@@ -45,6 +45,7 @@ All presentations were recorded and are (or will be!) available on the [Stir Tre
 A number of folks shared photos of the event, and we also had a photo booth for attendees.
 
 - [2025 Stir Trek Photo Booth](https://fotoshare.co/e/sa-X1x2MYC6dOANYba_93)
+- [2025 Pics by Glenn Harmon](https://www.glennharmon.photography/stir-trek-2025)
 
 ## Speaker Instructions
 
