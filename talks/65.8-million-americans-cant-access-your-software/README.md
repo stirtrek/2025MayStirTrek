@@ -4,6 +4,9 @@ Presented by Lindsay Knoll and Dan Keck at Stir Trek on 2 May 2025
 
 [Browse or download slideshow (47 MB PPTX)](https://go.osu.edu/65_8MillionAmericans).
 
+#### Demonstration website
+[MeetSnoot](http://meetsnoot.sdf.org), a mock dog-dating website with multiple accessibility bugs
+
 #### Websites linked in the presentation
 
 - [W3C Web Accessibility Initiative](https://www.w3.org/WAI)
